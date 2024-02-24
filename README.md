@@ -1,9 +1,6 @@
 
 # EEG PoC
 
-A brief description of what this project does and who it's for
-
-
 ## Dataset "numer 3":
 
 - http://brain.bio.msu.ru/eeg_schizophrenia.htm
