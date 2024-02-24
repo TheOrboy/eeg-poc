@@ -4,6 +4,7 @@
 ## Dataset "numer 3":
 
 - http://brain.bio.msu.ru/eeg_schizophrenia.htm
+- Nazwy kanałów: [F7, F3, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4, T6, O1, O2]
 - Ilosć instancji schizofrenii: 45
 - Ilość instancji normy: 39
 - Ilosć kanałów: 16
